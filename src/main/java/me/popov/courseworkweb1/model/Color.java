@@ -1,4 +1,5 @@
 package me.popov.courseworkweb1.model;
 
-public enum color {
+public enum Color {
+    RED, BLUE, GREEN;
 }
